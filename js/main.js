@@ -71,4 +71,4 @@ const getPhoto = Array.from(
   (_, index) => createPhoto(index + 1)
 );
 
-console.log(getPhoto);
+getPhoto();
